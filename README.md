@@ -1,7 +1,12 @@
 # KOAN.img
 
 <p align="center">
-  <a href="https://github.com/koan-shdw/KOAN-IMG/releases/latest"><b>⬇ Download for Windows</b></a>
+  <a href="https://github.com/koan-shdw/KOAN-IMG/releases/latest/download/KOAN.img-Setup.exe">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=".github/buttons/download-windows-dark.svg">
+      <img src=".github/buttons/download-windows-light.svg" alt="Download for Windows" height="64">
+    </picture>
+  </a>
 </p>
 
 A local-first desktop app for searching enormous image libraries with AI — hundreds of thousands
